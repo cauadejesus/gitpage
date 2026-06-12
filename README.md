@@ -1,6 +1,6 @@
 # Site criado para mostrar meu portfólio
 
-## Link so site
+## Link do site
 - A URL pública é: https://cauadejesus.github.io/gitpage/dist/index.html
 
 # 🚀 PortfolioHUB
