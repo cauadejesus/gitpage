@@ -6,7 +6,6 @@
 # 🚀 PortfolioHUB
 
 Plataforma centralizada para exibição, gerenciamento e versionamento de projetos e portfólios digitais, desenvolvida como entrega final da disciplina de Bootcamp do curso de Ciência da Computação.
-
 O desenvolvimento e a implantação desta plataforma foram guiados de ponta a ponta utilizando o **Google GEMINI** como inteligência artificial de apoio estratégico, atuando como co-piloto na arquitetura, segurança e governança do código.
 
 ---
@@ -15,11 +14,11 @@ O desenvolvimento e a implantação desta plataforma foram guiados de ponta a po
 
 A implantação do PortfolioHUB seguiu um cronograma ágil estruturado entre os dias 08/06/2026 e 14/06/2026, com os seguintes marcos de execução (*milestones*):
 
-*   **Fase 1: Configuração e Integração (09/06):** Limpeza e estruturação do ambiente do repositório existente (`gitpage`) e mapeamento do armazenamento de projetos.
-*   **Fase 2: Gestão de Usuários e Segurança (10/06):** Configuração de regras de proteção de branch e auditoria de vulnerabilidades[cite: 3].
-*   **Fase 3: Governança e Colaboração (11/06):** Formalização do fluxo de trabalho em equipe no arquivo global de documentação[cite: 3].
-*   **Fase 4: Testes de Produção (12/06):** Homologação de links, responsividade no GitHub Pages e integridade dos scripts de build[cite: 2, 3].
-*   **Fase 5: Lançamento e Apresentação (13/06 a 14/06):** Finalização dos relatórios técnicos e gravação da apresentação oficial para o YouTube[cite: 3].
+*   **Fase 1: Configuração e Integração:** Limpeza e estruturação do ambiente do repositório existente (`gitpage`) e mapeamento do armazenamento de projetos.
+*   **Fase 2: Gestão de Usuários e Segurança:** Configuração de regras de proteção de branch e auditoria de vulnerabilidades[cite: 3].
+*   **Fase 3: Governança e Colaboração:** Formalização do fluxo de trabalho em equipe no arquivo global de documentação[cite: 3].
+*   **Fase 4: Testes de Produção:** Homologação de links, responsividade no GitHub Pages e integridade dos scripts de build[cite: 2, 3].
+*   **Fase 5: Lançamento e Apresentação:** Finalização dos relatórios técnicos e gravação da apresentação oficial para o YouTube[cite: 3].
 
 ---
 
